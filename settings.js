@@ -3,14 +3,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349066528353"
-global.ownername = "⚡D A V I D⚡"
+global.ownernomer = "2347033810583"
+global.ownername = "⚡ GOD'S EYE'S ⚡"
 global.ytname = "YT: Hacktivist Hive"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Nigeria"
 
-global.ownernumber = '2349066528353'  //creator number
-global.ownername = '⚡D A V I D⚡' //owner name
+global.ownernumber = '2347033810583'  //creator number
+global.ownername = '⚡ GOD'S EYE'S ⚡' //owner name
 global.botname = 'Thomas Shelby ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
@@ -23,7 +23,7 @@ global.wm = "Github DeeCeeXxx."
 global.wm = "Github DeeCeeXxx."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z'
+global.link = 'https://chat.whatsapp.com/ILOrVTdkrs32OQeEQRXEev'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
